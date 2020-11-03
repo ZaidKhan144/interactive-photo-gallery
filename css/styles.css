@@ -2,3 +2,21 @@
 body{
     margin: 0;
 }
+.search-bar{
+    margin-top: 30px;
+    text-align: center;
+}
+input[id="search"]{
+    width: 30%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    outline: none;
+}
+.images-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px,1fr));
+    max-width: 850px;
+    grid-gap: 15px;
+    margin: auto;
+}
