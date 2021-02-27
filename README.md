@@ -39,5 +39,14 @@ $ npm start
 - Prettier - Code formatter
 - GitHub Pages
 
+## Reflection
 
+The main goal of this project was to make use of `JavaScript` libraries.
 
+I have used the `baguetteBox` library built using lightbox script, a `JavaScript` Library, to create a modern yet minimal design gallery. It supports full-screen mode with Image Captions. Library also allows moving through images using a slider and a close feature on the background mask for a better user experience. 
+
+I have also used `searchFilter.js`, a `jQuery` plugin to search through images by image caption, and laid out the main page using `CSS grid`.
+
+At the end of the day technologies used are `HTML`, `CSS Grid`, `JavaScript`, `baguetteBox `, and `SearchFilter.js`.
+
+You can view the live version of the app here: https://zaidkhan144.github.io/interactive-photo-gallery/
