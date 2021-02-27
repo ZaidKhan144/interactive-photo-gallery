@@ -1,6 +1,6 @@
 # interactive-photo-gallery
 
-Interactive Photo Gallery made using BaguetteBox.
+A Picture Gallery, made through Baguette Box Javascript Library, with functionality to search images based on their caption.
 
 ## Main Page
 
@@ -27,3 +27,17 @@ $ npm install
 # Start the project
 $ npm start
 ```
+
+## Tech used
+
+- JavaScript
+- baguetteBox Library
+- searchFilter.js Plugin
+- HTML
+- CSS Grid
+- ESLint - A linter tool to standardize code
+- Prettier - Code formatter
+- GitHub Pages
+
+
+
